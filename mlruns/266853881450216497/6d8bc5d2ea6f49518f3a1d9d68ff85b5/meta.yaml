@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/266853881450216497/6d8bc5d2ea6f49518f3a1d9d68ff85b5/artifacts
+end_time: 1706663225294
+entry_point_name: ''
+experiment_id: '266853881450216497'
+lifecycle_stage: active
+run_id: 6d8bc5d2ea6f49518f3a1d9d68ff85b5
+run_name: wise-crow-770
+run_uuid: 6d8bc5d2ea6f49518f3a1d9d68ff85b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706663221783
+status: 3
+tags: []
+user_id: mohammedzaidsyed

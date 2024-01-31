@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/67140fbde0a04814be4551e3d4907f12/artifacts
+end_time: 1706700891220
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: 67140fbde0a04814be4551e3d4907f12
+run_name: judicious-crab-852
+run_uuid: 67140fbde0a04814be4551e3d4907f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706700891205
+status: 4
+tags: []
+user_id: mohammedzaidsyed

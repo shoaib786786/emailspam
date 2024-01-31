@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/f492cec30bf844b8b6ac06e14a7a4f86/artifacts
+end_time: 1706662957864
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: f492cec30bf844b8b6ac06e14a7a4f86
+run_name: abundant-mouse-371
+run_uuid: f492cec30bf844b8b6ac06e14a7a4f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706662957732
+status: 4
+tags: []
+user_id: mohammedzaidsyed

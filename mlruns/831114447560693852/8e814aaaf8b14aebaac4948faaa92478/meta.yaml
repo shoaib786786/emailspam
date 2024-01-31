@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/8e814aaaf8b14aebaac4948faaa92478/artifacts
+end_time: 1706700592797
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: 8e814aaaf8b14aebaac4948faaa92478
+run_name: resilient-smelt-679
+run_uuid: 8e814aaaf8b14aebaac4948faaa92478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706700592790
+status: 4
+tags: []
+user_id: mohammedzaidsyed

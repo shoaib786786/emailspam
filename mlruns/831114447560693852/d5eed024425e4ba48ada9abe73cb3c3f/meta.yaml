@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/d5eed024425e4ba48ada9abe73cb3c3f/artifacts
+end_time: 1706662920112
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: d5eed024425e4ba48ada9abe73cb3c3f
+run_name: funny-bat-385
+run_uuid: d5eed024425e4ba48ada9abe73cb3c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706662919977
+status: 4
+tags: []
+user_id: mohammedzaidsyed

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/2254de5f15d84c75952e56679b6a1802/artifacts
+end_time: 1706699465233
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: 2254de5f15d84c75952e56679b6a1802
+run_name: intelligent-kite-449
+run_uuid: 2254de5f15d84c75952e56679b6a1802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706699461878
+status: 3
+tags: []
+user_id: mohammedzaidsyed

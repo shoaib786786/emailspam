@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/407553083182888926
+creation_time: 1706663225300
+experiment_id: '407553083182888926'
+last_update_time: 1706663225300
+lifecycle_stage: active
+name: SVM

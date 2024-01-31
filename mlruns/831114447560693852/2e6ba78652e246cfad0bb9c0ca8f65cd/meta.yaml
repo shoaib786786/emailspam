@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/2e6ba78652e246cfad0bb9c0ca8f65cd/artifacts
+end_time: 1706700267793
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: 2e6ba78652e246cfad0bb9c0ca8f65cd
+run_name: wise-kite-423
+run_uuid: 2e6ba78652e246cfad0bb9c0ca8f65cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706700267787
+status: 4
+tags: []
+user_id: mohammedzaidsyed

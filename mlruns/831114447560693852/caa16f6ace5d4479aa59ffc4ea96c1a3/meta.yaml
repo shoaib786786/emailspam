@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/caa16f6ace5d4479aa59ffc4ea96c1a3/artifacts
+end_time: 1706700439738
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: caa16f6ace5d4479aa59ffc4ea96c1a3
+run_name: charming-mare-817
+run_uuid: caa16f6ace5d4479aa59ffc4ea96c1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706700439732
+status: 4
+tags: []
+user_id: mohammedzaidsyed

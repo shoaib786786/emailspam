@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/266853881450216497/902dd22172bb406da2737c13314cdc58/artifacts
+end_time: 1706699468450
+entry_point_name: ''
+experiment_id: '266853881450216497'
+lifecycle_stage: active
+run_id: 902dd22172bb406da2737c13314cdc58
+run_name: capricious-ox-249
+run_uuid: 902dd22172bb406da2737c13314cdc58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706699465236
+status: 3
+tags: []
+user_id: mohammedzaidsyed

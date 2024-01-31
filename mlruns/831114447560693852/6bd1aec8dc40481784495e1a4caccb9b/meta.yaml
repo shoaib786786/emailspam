@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/spamclassification/mlruns/831114447560693852/6bd1aec8dc40481784495e1a4caccb9b/artifacts
+end_time: 1706699915284
+entry_point_name: ''
+experiment_id: '831114447560693852'
+lifecycle_stage: active
+run_id: 6bd1aec8dc40481784495e1a4caccb9b
+run_name: bemused-goat-216
+run_uuid: 6bd1aec8dc40481784495e1a4caccb9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706699915265
+status: 4
+tags: []
+user_id: mohammedzaidsyed
