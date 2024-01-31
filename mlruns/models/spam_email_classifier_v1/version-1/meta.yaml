@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706714433496
+current_stage: Production
+description: null
+last_updated_timestamp: 1706714945705
+name: spam_email_classifier_v1
+run_id: 9b67c7a096754c4899ca86b5cec240f5
+run_link: null
+source: file:///Users/mohammedzaidsyed/Desktop/Spam/emailspam/mlruns/570628366949585892/9b67c7a096754c4899ca86b5cec240f5/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/mohammedzaidsyed/Desktop/Spam/emailspam/mlruns/570628366949585892/9b67c7a096754c4899ca86b5cec240f5/artifacts/model
+user_id: null
+version: 1

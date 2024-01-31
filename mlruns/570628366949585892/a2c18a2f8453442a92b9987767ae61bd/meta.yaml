@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Spam/emailspam/mlruns/570628366949585892/a2c18a2f8453442a92b9987767ae61bd/artifacts
+end_time: 1706714330958
+entry_point_name: ''
+experiment_id: '570628366949585892'
+lifecycle_stage: active
+run_id: a2c18a2f8453442a92b9987767ae61bd
+run_name: dapper-horse-175
+run_uuid: a2c18a2f8453442a92b9987767ae61bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706714330949
+status: 4
+tags: []
+user_id: mohammedzaidsyed

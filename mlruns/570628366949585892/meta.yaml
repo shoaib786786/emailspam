@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mohammedzaidsyed/Desktop/Spam/emailspam/mlruns/570628366949585892
+creation_time: 1706713874565
+experiment_id: '570628366949585892'
+last_update_time: 1706713874565
+lifecycle_stage: active
+name: spam_email_classification_experiment

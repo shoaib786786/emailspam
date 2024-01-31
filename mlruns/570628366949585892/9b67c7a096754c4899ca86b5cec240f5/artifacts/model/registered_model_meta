@@ -1,0 +1,2 @@
+model_name: spam_email_classifier_v1
+model_version: '1'
